@@ -1,5 +1,20 @@
 logo: /images/isomer-logo.svg
 links:
+  - title: Who We Are
+    url: /permalink
+  - title: Overview of SIRA
+    url: /permalink
+  - title: List of Superheroes
+    url: /permalink
+  - title: Resources
+    url: /permalink
+    sublinks:
+      - title: Submission Form
+        url: /permalink
+      - title: Appeal Form
+        url: /permalink
+  - title: Press Releases
+    url: /permalink
   - title: Contact Us
     url: /contact-us/
   - title: Example Page
