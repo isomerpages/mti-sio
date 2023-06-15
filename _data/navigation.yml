@@ -6,7 +6,7 @@ links:
     url: /permalink
   - title: List of Superheroes
     url: /permalink
-  - title: Resources
+  - title: Guidance and Resources
     url: /permalink
     sublinks:
       - title: Submission Form
@@ -17,7 +17,10 @@ links:
     url: /permalink
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: Submissions
+    url: /permalink
+    sublinks:
+      - title: Notifications
+        url: /permalink
+      - title: Appeals
+        url: /permalink
