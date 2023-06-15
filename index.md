@@ -13,10 +13,25 @@ sections:
       background: /images/hero-banner.png
       button: Contact Us
       url: /contact-us/
+      key_highlights:
+        - title: What is SIRA?
+          description: Information on SIRA
+          url: /sira/
+        - title: Selected Superheroes
+          description: List of Superheroes
+          url: ""
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
+      title: Submission of Notifications
+      subtitle: How to Submit Notifications
+      description: Find out how to submit notifications by clicking the link below.
+      button: Steps to submit
       url: /faq/
+  - infobar:
+      title: Submission of Appeals
+      subtitle: HOW TO SUBMIT APPEALS
+      description: Find out how to submit appeals by clicking the link below.
+      button: Button Text
+  - resources:
+      title: Latest Commission's Decisions
+      subtitle: BE UPDATED
 ---
