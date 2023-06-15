@@ -6,21 +6,21 @@ links:
     url: /permalink
   - title: List of Superheroes
     url: /permalink
-  - title: Guidance and Resources
+  - title: Submissions
     url: /permalink
     sublinks:
-      - title: Submission Form
+      - title: Superstrength Form
         url: /permalink
-      - title: Appeal Form
+      - title: Teleport Form
+        url: /permalink
+  - title: Guidance Documents
+    url: /permalink
+    sublinks:
+      - title: Superstrength Process
+        url: /permalink
+      - title: Teleport Process
         url: /permalink
   - title: Press Releases
     url: /permalink
   - title: Contact Us
     url: /contact-us/
-  - title: Submissions
-    url: /permalink
-    sublinks:
-      - title: Notifications
-        url: /permalink
-      - title: Appeals
-        url: /permalink
