@@ -30,7 +30,8 @@ sections:
       title: Submission of Appeals
       subtitle: HOW TO SUBMIT APPEALS
       description: Find out how to submit appeals by clicking the link below.
-      button: Button Text
+      button: STEPS TO SUBMIT
+      url: /faq/
   - resources:
       title: Latest Commission's Decisions
       subtitle: BE UPDATED
