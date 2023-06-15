@@ -8,8 +8,8 @@ notification: "*This webpage is undergoing development. Apologies for the
   inconvenience caused.*"
 sections:
   - hero:
-      title: Superheroes Innovation & Research Office
-      subtitle: For the Superhero Innovation Research Act
+      title: Superhero Innovation & Research Commission
+      subtitle: For the Superhero Innovation & Research Act
       background: /images/hero-banner.png
       button: Contact Us
       url: /contact-us/
