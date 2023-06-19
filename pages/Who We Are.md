@@ -3,7 +3,7 @@ title: Who We Are
 permalink: /whoweare/
 description: Description of SIRC Office
 ---
-About the SIRC
+About the Superheroes and Innovation Commission
 ======================
 
 The POFMA Office, situated within the Infocomm Media Development Authority, is responsible for the administration of the Protection from Online Falsehoods and Manipulation Act (POFMA).
