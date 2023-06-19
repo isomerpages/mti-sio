@@ -4,15 +4,15 @@ links:
     url: /aboutus
   - title: Overview of SIRA
     url: /sira2023
-  - title: List of Superheroes
+  - title: Superheroes
     url: /superheroes
-  - title: Superpowers
-    url: /permalink
+  - title: APPLICATION
+    url: /application
     sublinks:
-      - title: Superstrength Form
-        url: /permalink
-      - title: Teleport Form
-        url: /permalink
+      - title: Night Vision
+        url: /nightvision
+      - title: Adaptation
+        url: /adaptation
   - title: Guidance Documents
     url: /permalink
     sublinks:
