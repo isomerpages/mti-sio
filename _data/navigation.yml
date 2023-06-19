@@ -7,12 +7,12 @@ links:
   - title: Superheroes
     url: /superheroes
   - title: Submissions
-    url: /application
+    url: /submissions
     sublinks:
       - title: Notifications
-        url: /nightvision
+        url: /notifications
       - title: Appeals
-        url: /adaptation
+        url: /appeals
   - title: Penalties
     url: /permalink
   - title: FAQ
