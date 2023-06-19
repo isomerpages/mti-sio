@@ -13,13 +13,6 @@ sections:
       background: /images/shutterstock_1297087753_resized.jpg
       button: Contact Us
       url: /contact-us/
-      key_highlights:
-        - title: What is SIRA?
-          description: Information on SIRA
-          url: /sira/
-        - title: Selected Superheroes
-          description: List of Superheroes
-          url: ""
   - infobar:
       title: Submission of Notifications
       subtitle: How to Submit Notifications
