@@ -13,14 +13,7 @@ links:
         url: /nightvision
       - title: Adaptation
         url: /adaptation
-  - title: Guidance Documents
-    url: /permalink
-    sublinks:
-      - title: Superstrength Process
-        url: /permalink
-      - title: Teleport Process
-        url: /permalink
-  - title: Press Releases
-    url: /permalink
+  - title: FAQ
+    url: /faq
   - title: Contact Us
     url: /contact-us/
