@@ -19,10 +19,10 @@ sections:
       url: /notifications
   - infobar:
       title: Submission of Appeals
-      subtitle: HOW TO SUBMIT APPEALS
+      subtitle: How to Submit Appeals
       description: Find out how to submit appeals by clicking the link below.
-      button: STEPS TO SUBMIT
-      url: /faq/
+      button: Steps to Submit
+      url: /appeals
   - resources:
       title: Latest Commission's Updates
       subtitle: BE UPDATED
