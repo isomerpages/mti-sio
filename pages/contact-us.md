@@ -5,34 +5,24 @@ permalink: /contact-us/
 agency_name: SIRC
 locations:
   - address:
-      - 31 Sesame Street
-      - Big Bird Building
-      - Singapore 123456
+      - 100 High Street
+      - "#09-01, The Treasury"
+      - Singapore 179434
     operating_hours:
       - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-        description: ""
+        time: 9.00am - 6.00pm
+        description: Closed on Saturdays, Sundays and Public Holidays
     maps_link: ""
-    title: Main Office
-  - address:
-      - 109 North Bridge Road
-      - Singapore 179097
-      - ""
-    operating_hours: []
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
-    title: Branch Office
+    title: Locate Us
 contacts:
   - content:
-      - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
-      - other: Any text here <i>including HTML</i>
+      - phone: ""
+      - email: feedback@sirc.gov.sg
+      - other: ""
     title: General Enquiries & Feedback
   - content:
       - phone: ""
-      - email: careers@abc.gov.sg
+      - email: submissions@sirc.gov.sg
       - other: ""
-    title: Careers
+    title: Submission of Superpower
 ---
