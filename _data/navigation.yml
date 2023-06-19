@@ -6,7 +6,7 @@ links:
     url: /sira2023
   - title: Superheroes
     url: /superheroes
-  - title: APPLICATION
+  - title: Applications
     url: /application
     sublinks:
       - title: Night Vision
