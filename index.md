@@ -18,7 +18,7 @@ sections:
       subtitle: How to Submit Notifications
       description: Find out how to submit notifications by clicking the link below.
       button: Steps to submit
-      url: /faq/
+      url: /notifications
   - infobar:
       title: Submission of Appeals
       subtitle: HOW TO SUBMIT APPEALS
@@ -26,6 +26,6 @@ sections:
       button: STEPS TO SUBMIT
       url: /faq/
   - resources:
-      title: Latest Commission's Decisions
+      title: Latest Commission's Updates
       subtitle: BE UPDATED
 ---
