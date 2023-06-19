@@ -17,9 +17,9 @@ locations:
 contacts:
   - content:
       - phone: ""
-      - email: feedback@sirc.gov.sg
+      - email: enquiries@sirc.gov.sg
       - other: ""
-    title: General Enquiries & Feedback
+    title: General Enquiries
   - content:
       - phone: ""
       - email: submissions@sirc.gov.sg
