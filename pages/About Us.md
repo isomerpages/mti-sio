@@ -3,21 +3,16 @@ title: About Us
 permalink: /aboutus/
 description: Description of SIRC Office
 ---
-About the Superheroes and Innovation Commission
+About the Superheroes Innovation and Research Commission
 ======================
+The Superheroes Innovation and Research Commission (SIRC), a joint office between the Ministry of Trade and Industry (MTI) and Prime Minister's Office (PMO), is responsible for the administration of the Superheroes Innovation and Research Act (SIRA).
 
-The POFMA Office, situated within the Infocomm Media Development Authority, is responsible for the administration of the Protection from Online Falsehoods and Manipulation Act (POFMA).
-
-This is part of the wider Whole-of-Government effort to address online falsehoods that affect the public interest.
+This is part of the wider Whole-of-Government effort to address supervillians that affect the public interest.
 
 SIRA
 ======================
 
-The POFMA Office:
+The SIRC:
 
 *   Issues Directions/Notices upon the instruction of Ministers; monitors and enforces compliance with the Directions/Notices
-*   Administers the Codes of Practice (CoPs) issued under POFMA; monitors and enforces compliance with the CoPs
-
-[Read the SIRA 2023](aaaaaaaaa) for more information.
-
-[Insert Guidance Documents](aaaaaaa)
+*   Administers the Codes of Practice (CoPs) issued under SIRA; monitors and enforces compliance with the CoPs
