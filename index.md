@@ -10,7 +10,7 @@ sections:
   - hero:
       title: Superhero Innovation & Research Commission
       subtitle: For the Superhero Innovation & Research Act
-      background: /images/hero-banner.png
+      background: /images/shutterstock_1297087753_resized.jpg
       button: Contact Us
       url: /contact-us/
       key_highlights:
