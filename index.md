@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Title
+title: Superheroes Innovation and Research Act
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
