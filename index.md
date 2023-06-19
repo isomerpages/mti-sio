@@ -11,8 +11,6 @@ sections:
       title: Superhero Innovation & Research Commission
       subtitle: For the Superhero Innovation & Research Act
       background: /images/shutterstock_1297087753_resized.jpg
-      button: Contact Us
-      url: /contact-us/
   - infobar:
       title: Submission of Notifications
       subtitle: How to Submit Notifications
