@@ -3,11 +3,9 @@ title: List of Superheroes
 permalink: /superheroes/
 description: List of Superheroes
 ---
-Refer to the list/gazette
+List of superheroes (One-stop online portal for investors)
 
 
-
-| Column 1 | Column 2 | Column 3 |
+| Superhero | XXX | POC and Contact Information |
 | -------- | -------- | -------- |
 | Text     | Text     | Text     |
-
