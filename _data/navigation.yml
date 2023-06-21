@@ -7,7 +7,7 @@ links:
   - title: Superheroes
     url: /superheroes
   - title: Submissions
-    url: /submissions
+    url: /notifications
     sublinks:
       - title: Notifications
         url: /notifications
