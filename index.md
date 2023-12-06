@@ -8,8 +8,8 @@ notification: "*This webpage is undergoing development. Apologies for the
   inconvenience caused.*"
 sections:
   - hero:
-      title: Superhero Innovation & Research Commission
-      subtitle: For the Superhero Innovation & Research Act
+      title: "Office of Significant Investments Review (OSIR) "
+      subtitle: For the Significant Investments Review Act (SIRA)
       background: /images/shutterstock_1297087753_resized.jpg
   - infobar:
       title: Submission of Notifications
