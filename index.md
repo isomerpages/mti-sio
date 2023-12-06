@@ -8,13 +8,14 @@ notification: "*This webpage is undergoing development. Apologies for the
   inconvenience caused.*"
 sections:
   - hero:
-      title: "Office of Significant Investments Review (OSIR) "
+      title: Office of Significant Investments Review (OSIR)
       subtitle: For the Significant Investments Review Act (SIRA)
       background: /images/shutterstock_1297087753_resized.jpg
   - infobar:
-      title: Submission of Notifications
-      subtitle: How to Submit Notifications
-      description: Find out how to submit notifications by clicking the link below.
+      title: Submission of Notifications or Approvals
+      subtitle: How do I submit?
+      description: Find out how to submit notifications or approvals by clicking the
+        link below.
       button: Steps to submit
       url: /notifications
   - infobar:
