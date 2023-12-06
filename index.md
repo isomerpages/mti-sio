@@ -13,7 +13,7 @@ sections:
       background: /images/shutterstock_1297087753_resized.jpg
   - infobar:
       title: Submission of Notifications or Approvals
-      subtitle: How do I submit?
+      subtitle: How to submit
       description: Find out how to submit notifications or approvals by clicking the
         link below.
       button: Steps to submit
