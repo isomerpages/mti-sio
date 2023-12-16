@@ -4,3 +4,4 @@ permalink: /designated/
 variant: tiptap
 description: List of Designated Entities
 ---
+<p></p>
