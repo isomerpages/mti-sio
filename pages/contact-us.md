@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: SIRC
+agency_name: OSIR
 locations:
   - address:
       - 100 High Street
