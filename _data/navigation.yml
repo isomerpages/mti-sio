@@ -12,7 +12,7 @@ links:
   - title: Designated Entities
     url: /designated
   - title: Submissions
-    url: /submissions
+    url: /notifications
     sublinks:
       - title: Notifications
         url: /notifications
