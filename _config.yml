@@ -2,17 +2,17 @@ title: Office of Significant Investments Act
 url: https://osir.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#df9a60"
-  secondary-color: "#2f5597"
+  primary-color: "#f7ae62"
+  secondary-color: "#654321"
   media-colors:
     - title: media-color-one
       color: "#ffffff"
     - title: media-color-two
-      color: "#dce9f7"
+      color: "#edcdaf"
     - title: media-color-three
       color: "#dcd3cc"
     - title: media-color-four
-      color: "#334d6a"
+      color: "#bb9351"
     - title: media-color-five
       color: "#ffffff"
 description: An Isomer site of the Singapore Government
