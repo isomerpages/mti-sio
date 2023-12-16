@@ -13,10 +13,17 @@ links:
         url: /notifications
       - title: Approvals
         url: /permalink
+      - title: Validation Notice
+        url: /permalink
       - title: Reconsiderations
         url: /appeals
       - title: Appeals
         url: /permalink
+  - title: Guidance Documents
+    url: /guidance
+    sublinks:
+      - title: Fit and Proper Guidelines
+        url: /fnp
   - title: Penalties
     url: /penalties
   - title: FAQ
