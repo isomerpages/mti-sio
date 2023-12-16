@@ -22,7 +22,7 @@ contacts:
     title: General Enquiries
   - content:
       - phone: ""
-      - email: contact@sirc.gov.sg
+      - email: contact@osir.gov.sg
       - other: ""
     title: Submissions
 feedback: insertlink
