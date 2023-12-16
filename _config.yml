@@ -2,8 +2,8 @@ title: Office of Significant Investments Review
 url: https://osir.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#f7ae62"
-  secondary-color: "#654321"
+  primary-color: "#654321"
+  secondary-color: "#f7ae62"
   media-colors:
     - title: media-color-one
       color: "#ffffff"
