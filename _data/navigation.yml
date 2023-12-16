@@ -4,21 +4,26 @@ links:
     url: /aboutus
   - title: Overview of SIRA
     url: /overview
+    sublinks:
+      - title: SIRA
+        url: /sira
+      - title: Other regulatory requirements
+        url: /otherlegis
   - title: Designated Entities
     url: /designated
   - title: Submissions
-    url: /notifications
+    url: /submissions
     sublinks:
       - title: Notifications
         url: /notifications
       - title: Approvals
-        url: /permalink
+        url: /approvals
       - title: Validation Notice
-        url: /permalink
+        url: /validation
       - title: Reconsiderations
-        url: /appeals
+        url: /reconsideration
       - title: Appeals
-        url: /permalink
+        url: /appeals
   - title: Guidance Documents
     url: /guidance
     sublinks:
