@@ -17,12 +17,13 @@ locations:
 contacts:
   - content:
       - phone: ""
-      - email: enquiries@sirc.gov.sg
+      - email: contact@osir.gov.sg
       - other: ""
     title: General Enquiries
   - content:
       - phone: ""
-      - email: submissions@sirc.gov.sg
+      - email: contact@sirc.gov.sg
       - other: ""
-    title: Submission of Superpower
+    title: Submissions
+feedback: insertlink
 ---
