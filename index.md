@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Office of Significant Investments Act
+title: Office of Significant Investments Review
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
