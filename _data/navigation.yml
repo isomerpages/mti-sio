@@ -11,8 +11,12 @@ links:
     sublinks:
       - title: Notifications
         url: /notifications
-      - title: Appeals
+      - title: Approvals
+        url: /permalink
+      - title: Reconsiderations
         url: /appeals
+      - title: Appeals
+        url: /permalink
   - title: Penalties
     url: /penalties
   - title: FAQ
