@@ -28,4 +28,5 @@ sections:
   - resources:
       title: Latest Commission's Updates
       subtitle: BE UPDATED
+      button: More
 ---
