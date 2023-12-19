@@ -3,7 +3,7 @@ url: https://osir.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
   primary-color: "#ea9e52"
-  secondary-color: "#ea9e52"
+  secondary-color: "#5f5a57"
   media-colors:
     - title: media-color-one
       color: "#ffffff"
