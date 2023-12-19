@@ -21,7 +21,8 @@ sections:
   - infobar:
       title: Submission of Reconsiderations and Appeals
       subtitle: How do i submit?
-      description: Find out how to submit appeals by clicking the link below.
+      description: Find out how to submit reconsiderations or appeals by clicking the
+        link below.
       button: Steps to Submit
       url: /appeals
   - resources:
