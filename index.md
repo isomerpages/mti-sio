@@ -12,12 +12,18 @@ sections:
       subtitle: For the Significant Investments Review Act (SIRA)
       background: /images/shutterstock_1297087753_resized.jpg
   - infobar:
-      title: Submission of Notifications or Approvals
+      title: Submission of Notifications
       subtitle: How do I submit?
-      description: Find out how to submit notifications or approvals by clicking the
-        link below.
+      description: Find out how to submit notifications by clicking the link below.
       button: Steps to submit
       url: /notifications
+  - infobar:
+      title: Submission of Approvals
+      subtitle: How do I submit?
+      id: infobar
+      description: Find out how to submit notifications by clicking the link below.
+      button: Steps to submit
+      url: /approvals
   - infobar:
       title: Submission of Reconsiderations and Appeals
       subtitle: How do i submit?
