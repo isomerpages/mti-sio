@@ -19,7 +19,7 @@ sections:
       button: Steps to submit
       url: /notifications
   - infobar:
-      title: Submission of Appeals
+      title: Submission of Reconsiderations and Appeals
       subtitle: How do i submit?
       description: Find out how to submit appeals by clicking the link below.
       button: Steps to Submit
