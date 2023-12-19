@@ -20,10 +20,8 @@ links:
         url: /approvals
       - title: Validation Notice
         url: /validation
-      - title: Reconsiderations
-        url: /reconsideration
-      - title: Appeals
-        url: /appeals
+      - title: Reconsiderations and Appeals
+        url: /reconsiderationappeal
   - title: Guidance Documents
     url: /guidance
     sublinks:
