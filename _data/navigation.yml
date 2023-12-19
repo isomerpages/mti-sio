@@ -18,8 +18,6 @@ links:
         url: /notifications
       - title: Approvals
         url: /approvals
-      - title: Validation Notice
-        url: /validation
       - title: Reconsiderations and Appeals
         url: /reconsiderationappeal
   - title: Guidance Documents
