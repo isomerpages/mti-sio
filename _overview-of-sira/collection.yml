@@ -2,6 +2,6 @@ collections:
   overview-of-sira:
     output: true
     order:
-      - Sectoral legislation/Other legislation with O&C provisions.md
-      - Sectoral legislation/.keep
       - Significant Investments Review Act.md
+      - Sectoral legislation/.keep
+      - Sectoral legislation/Other legislation with O&C provisions.md
