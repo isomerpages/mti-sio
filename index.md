@@ -13,7 +13,7 @@ sections:
       background: /images/shutterstock_1297087753_resized.jpg
       button: About OSIR
       url: /aboutus
-      variant: side
+      variant: center
       backgroundColor: gray
       alignment: left
       size: md
