@@ -13,6 +13,7 @@ sections:
       background: /images/shutterstock_1297087753_resized.jpg
       button: ABOUT OSIr
       url: /aboutus
+      variant: side
   - infobar:
       title: Submission of Notifications
       subtitle: How do I submit?
