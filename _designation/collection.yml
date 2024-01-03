@@ -1,4 +1,5 @@
 collections:
   designation:
     output: true
-    order: []
+    order:
+      - Designation Process.md
