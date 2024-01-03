@@ -18,6 +18,30 @@ sections:
       alignment: left
       size: md
   - infobar:
+      title: Infobar
+      subtitle: DESIGNATED ENTITIES
+      id: infobar
+      description: Infobar description
+      button: Button Text
+  - textcards:
+      title: Text Cards
+      subtitle: Add informational text
+      id: textcards
+      description: Text card description
+      cards:
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+  - infobar:
       title: Submission of Notifications
       subtitle: How do I submit?
       description: Find out how to submit notifications by clicking the link below.
