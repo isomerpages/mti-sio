@@ -11,12 +11,17 @@ sections:
       title: Office of Significant Investments Review (OSIR)
       subtitle: For the Significant Investments Review Act (SIRA)
       background: /images/shutterstock_1297087753_resized.jpg
-      button: About OSIR
-      url: /aboutus
       variant: center
       backgroundColor: gray
       alignment: left
       size: md
+      key_highlights:
+        - title: About OSIR
+          description: More information on the team
+          url: /aboutus
+        - title: About SIRA
+          description: More information on the Act
+          url: /sira
   - infobar:
       title: Designated Entities
       id: infobar
