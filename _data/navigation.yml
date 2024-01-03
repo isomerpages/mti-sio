@@ -9,8 +9,11 @@ links:
         url: /sira
       - title: Other regulatory requirements
         url: /otherlegis
-  - title: Designated Entities
-    url: /designated
+  - title: Designation
+    url: /designation
+    sublinks:
+      - title: Designated Entities
+        url: /designated
   - title: Submissions
     url: /notifications
     sublinks:
