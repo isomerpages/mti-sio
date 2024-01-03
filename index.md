@@ -11,6 +11,8 @@ sections:
       title: Office of Significant Investments Review (OSIR)
       subtitle: For the Significant Investments Review Act (SIRA)
       background: /images/shutterstock_1297087753_resized.jpg
+      button: ABOUT OSIr
+      url: /aboutus
   - infobar:
       title: Submission of Notifications
       subtitle: How do I submit?
