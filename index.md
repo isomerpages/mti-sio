@@ -18,11 +18,11 @@ sections:
       alignment: left
       size: md
   - infobar:
-      title: Infobar
-      subtitle: DESIGNATED ENTITIES
+      title: Designated Entities
       id: infobar
-      description: Infobar description
-      button: Button Text
+      description: List of Designated Entities
+      button: For more information
+      url: /designation
   - textcards:
       title: Text Cards
       subtitle: Add informational text
