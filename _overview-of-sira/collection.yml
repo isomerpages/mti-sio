@@ -3,5 +3,6 @@ collections:
     output: true
     order:
       - Significant Investments Review Act.md
+      - Sectoral legislation/Healthcare.md
       - Sectoral legislation/.keep
       - Sectoral legislation/Banking and Finance.md
