@@ -39,7 +39,7 @@ sections:
         - title: Reconsiderations and Appeals
           description: Find out how to submit reconsiderations and appeals by clicking the
             link below.
-          linktext: Learn more
+          linktext: More information
           url: /reconsiderationappeal/
   - resources:
       title: Latest Commission's Updates
