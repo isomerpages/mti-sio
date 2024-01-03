@@ -2,4 +2,5 @@ collections:
   sectoral-legislation:
     output: true
     order:
+      - Security and Emergency Services.md
       - Transport.md
