@@ -41,13 +41,6 @@ sections:
             link below.
           linktext: Learn more
           url: /reconsiderationappeal/
-  - infobar:
-      title: Submission of Reconsiderations and Appeals
-      subtitle: How do i submit?
-      description: Find out how to submit reconsiderations or appeals by clicking the
-        link below.
-      button: Steps to Submit
-      url: /appeals
   - resources:
       title: Latest Commission's Updates
       subtitle: BE UPDATED
