@@ -12,6 +12,8 @@ links:
   - title: Designation
     url: /designation
     sublinks:
+      - title: Designation Process
+        url: /designation
       - title: Designated Entities
         url: /designated
   - title: Submissions
