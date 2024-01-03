@@ -1,4 +1,5 @@
 collections:
   overview-of-sira:
     output: true
-    order: []
+    order:
+      - Significant Investments Review Act.md
