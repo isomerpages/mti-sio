@@ -1,4 +1,5 @@
 collections:
   submissions:
     output: true
-    order: []
+    order:
+      - Reconsiderations and Appeals.md
