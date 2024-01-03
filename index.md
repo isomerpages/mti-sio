@@ -20,40 +20,27 @@ sections:
   - infobar:
       title: Designated Entities
       id: infobar
-      description: List of Designated Entities
-      button: For more information
+      button: List of Designated Entities
       url: /designated
+      subtitle: ENTITIES DESIGNATED UNDER SIRA
   - textcards:
-      title: Text Cards
-      subtitle: Add informational text
+      title: Submissions to OSIR
+      subtitle: HOW DO I SUBMIT?
       id: textcards
-      description: Text card description
       cards:
-        - title: Card
-          description: Card description
+        - title: Notifications
+          description: Find out how to submit notifications by clicking the link below.
+          linktext: More information
+          url: /notifications
+        - title: Approvals
+          description: Find out how to submit approvals by clicking the link below.
+          linktext: More information
+          url: /approvals
+        - title: Reconsiderations and Appeals
+          description: Find out how to submit reconsiderations and appeals by clicking the
+            link below.
           linktext: Learn more
-          url: ""
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
-  - infobar:
-      title: Submission of Notifications
-      subtitle: How do I submit?
-      description: Find out how to submit notifications by clicking the link below.
-      button: Steps to submit
-      url: /notifications
-  - infobar:
-      title: Submission of Approvals
-      subtitle: How do I submit?
-      id: infobar
-      description: Find out how to submit notifications by clicking the link below.
-      button: Steps to submit
-      url: /approvals
+          url: /reconsiderationappeal/
   - infobar:
       title: Submission of Reconsiderations and Appeals
       subtitle: How do i submit?
