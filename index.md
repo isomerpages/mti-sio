@@ -22,7 +22,7 @@ sections:
       id: infobar
       description: List of Designated Entities
       button: For more information
-      url: /designation
+      url: /designated
   - textcards:
       title: Text Cards
       subtitle: Add informational text
