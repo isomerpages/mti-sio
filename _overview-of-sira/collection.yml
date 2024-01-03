@@ -2,5 +2,5 @@ collections:
   overview-of-sira:
     output: true
     order:
-      - Other regulatory requirements.md
       - Significant Investments Review Act.md
+      - Other regulatory requirements.md
