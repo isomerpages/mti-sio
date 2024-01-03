@@ -2,5 +2,6 @@ collections:
   overview-of-sira:
     output: true
     order:
+      - Sectoral legislation/Other regulatory requirements.md
       - Sectoral legislation/.keep
       - Significant Investments Review Act.md
