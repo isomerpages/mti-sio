@@ -2,6 +2,7 @@
 title: Frequently Asked Questions (FAQs)
 permalink: /faq/
 description: ""
+variant: markdown
 ---
 ### **FAQ**
 
