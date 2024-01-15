@@ -32,10 +32,12 @@ links:
         url: /fnp
       - title: Notifications
         url: /permalink
-  - title: FAQ
+  - title: FAQs
     url: /faq
+    sublinks:
+      - title: For Designated Entities
+        url: /faqs-for-designated-entities
+      - title: For Businesses and Investors
+        url: /faqs-for-businesses-and-investors
   - title: Contact Us
     url: /contact-us/
-  - title: FAQ
-    url: /faq
-    sublinks: []
