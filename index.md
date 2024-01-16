@@ -17,7 +17,7 @@ sections:
       size: md
       key_highlights:
         - title: About OSIR
-          description: More information on the team
+          description: More information on the Office
           url: /aboutus
         - title: About SIRA
           description: More information on the Act
