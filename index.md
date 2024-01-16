@@ -15,11 +15,11 @@ sections:
       alignment: left
       size: md
       key_highlights:
-        - title: About OSIR
-          description: More information on the Office
+        - title: About Office of Significant Investments Review
+          description: More information on OSIR
           url: /aboutus
-        - title: About SIRA
-          description: More information on the Act
+        - title: About Significant investments review act
+          description: More information on SIRA
           url: /sira
   - infobar:
       title: Designated Entities
