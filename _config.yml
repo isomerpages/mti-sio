@@ -52,7 +52,7 @@ plugins:
 staging: https://staging.d125odelv556zd.amplifyapp.com
 prod: https://master.d125odelv556zd.amplifyapp.com
 facebook-pixel: ""
-shareicon: /images/isomer-logo.svg
+shareicon: /images/logo.png
 is_government: true
 google_analytics: ""
 google_analytics_ga4: ""
