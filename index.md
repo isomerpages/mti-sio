@@ -8,7 +8,7 @@ notification: "*This webpage is undergoing development. Apologies for the
   inconvenience caused.*"
 sections:
   - hero:
-      title: Hello Jason
+      title: Hello Jason !
       background: /images/shutterstock_1297087753_resized.jpg
       variant: center
       backgroundColor: gray
