@@ -1,0 +1,10 @@
+collections:
+  sectoral-legislation:
+    output: true
+    order:
+      - Banking and Finance.md
+      - Healthcare.md
+      - Information, Communications and Media.md
+      - Public Utilities.md
+      - Security and Emergency Services.md
+      - Transport.md

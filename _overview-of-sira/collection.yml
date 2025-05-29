@@ -1,0 +1,6 @@
+collections:
+  overview-of-sira:
+    output: true
+    order:
+      - Significant Investments Review Act.md
+      - Sectoral legislation with O&C provisions.md

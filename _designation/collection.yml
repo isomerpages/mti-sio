@@ -1,0 +1,6 @@
+collections:
+  designation:
+    output: true
+    order:
+      - Designation Process.md
+      - Designated Entities.md

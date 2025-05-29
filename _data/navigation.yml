@@ -1,0 +1,43 @@
+logo: /images/logo.png
+links:
+  - title: About Us
+    url: /aboutus
+  - title: Overview of SIRA
+    url: /sira
+    sublinks:
+      - title: SIRA
+        url: /sira
+      - title: Sectoral Legislation
+        url: /otherlegis
+  - title: Designation
+    url: /designation
+    sublinks:
+      - title: Designation Process
+        url: /designation
+      - title: Designated Entities
+        url: /designated
+  - title: Submissions
+    url: /notifications
+    sublinks:
+      - title: Notifications
+        url: /notifications
+      - title: Approvals
+        url: /approvals
+      - title: Reconsiderations and Appeals
+        url: /reconsiderationappeal
+  - title: Guidance Documents
+    url: /guidance
+    sublinks:
+      - title: Fit and Proper Guidelines
+        url: /fnp
+      - title: Notifications
+        url: /permalink
+  - title: FAQs
+    url: /faq
+    sublinks:
+      - title: For Designated Entities
+        url: /faqs-for-designated-entities
+      - title: For Businesses and Investors
+        url: /faqs-for-businesses-and-investors
+  - title: Contact Us
+    url: /contact-us/
